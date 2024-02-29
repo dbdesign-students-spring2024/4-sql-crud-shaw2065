@@ -92,7 +92,7 @@ CREATE TABLE posts (
 - Import the data into `posts`
 ```sql
 .mode csv
-.import posts.csv posts --skip 1
+.import data/posts.csv posts --skip 1
 ```
 
 ### Queries
