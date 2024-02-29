@@ -1,0 +1,1001 @@
+id,name,category,price tier ,neighborhood,opening hour,closing hour,average rating,good for kids
+1,Golden Dragon,Chinese,cheap,Hell's Kitchen,14:45,20:45,4.7,false
+2,Panda Express,Chinese,cheap,Midtown East,10:15,22:30,1.5,false
+3,Lucky Bamboo,Chinese,cheap,Little Brazil,17:45,23:15,1.4,false
+4,Dragon Palace,Chinese,expensive,Midtown,15:30,23:30,1.8,true
+5,Chopsticks Palace,Chinese,expensive,Diamond District,09:30,23:15,2.3,false
+6,Great Wall,Chinese,cheap,Hell's Kitchen,14:45,23:15,3.6,false
+7,Jade Garden,Chinese,expensive,Little Brazil,09:30,21:45,4.8,true
+8,Red Lantern,Chinese,medium,Little Brazil,18:00,21:45,3.5,true
+9,Fortune House,Chinese,medium,Diamond District,09:30,22:45,1.6,false
+10,Dragon Wok,Chinese,cheap,Diamond District,13:00,21:30,3.9,false
+11,Imperial Garden,Chinese,expensive,Garment District,15:30,22:30,1.0,false
+12,China Garden,Chinese,cheap,Tudor City,16:15,22:00,2.5,false
+13,Dynasty Buffet,Chinese,expensive,Garment District,16:15,23:30,4.4,true
+14,Mandarin Palace,Chinese,medium,Koreatown,13:00,22:00,3.7,false
+15,Dragon Pearl,Chinese,cheap,Columbus Circle,12:20,20:45,2.6,true
+16,Lucky Star,Chinese,expensive,Midtown West,13:00,23:15,3.3,false
+17,Peking Duck,Chinese,expensive,Tudor City,14:45,21:30,4.7,false
+18,Golden Wok,Chinese,cheap,Turtle Bay,09:30,20:00,2.6,true
+19,Lotus Blossom,Chinese,expensive,Hell's Kitchen,17:45,22:00,3.0,true
+20,Chinatown Express,Chinese,cheap,Tenderloin,16:15,23:15,3.1,true
+21,Jasmine Garden,Chinese,cheap,Midtown West,12:20,23:30,2.5,true
+22,Phoenix Garden,Chinese,medium,Diamond District,18:00,20:45,2.7,true
+23,Panda Garden,Chinese,expensive,Sutton Place,10:15,20:00,4.4,false
+24,Dragon Inn,Chinese,medium,Sutton Place,15:30,22:45,3.7,true
+25,China Star,Chinese,expensive,Sutton Place,13:00,22:45,3.5,false
+26,Dynasty Palace,Chinese,medium,Herald Square,18:00,23:30,1.0,false
+27,Golden Panda,Chinese,cheap,Tudor City,13:00,23:30,2.1,false
+28,Lantern Garden,Chinese,cheap,Columbus Circle,15:30,21:30,3.7,true
+29,Chopstick House,Chinese,medium,Herald Square,13:00,21:45,1.9,false
+30,Peking House,Chinese,cheap,Columbus Circle,13:00,23:45,4.4,false
+31,Dragon House,Chinese,expensive,Little Brazil,15:30,20:45,4.8,true
+32,Imperial Wok,Chinese,medium,Little Brazil,12:20,21:30,2.4,true
+33,Jade Dragon,Chinese,cheap,Diamond District,11:45,20:45,2.7,true
+34,Red Dragon,Chinese,medium,Koreatown,13:00,21:45,3.8,true
+35,Golden Phoenix,Chinese,cheap,Murray Hill,13:00,22:45,4.2,false
+36,Lucky Dragon,Chinese,expensive,Madison Square,11:45,22:30,1.1,false
+37,Panda Palace,Chinese,medium,Theater District,12:20,20:45,3.8,true
+38,Dragon King,Chinese,cheap,Hell's Kitchen,17:45,21:45,4.1,true
+39,China King,Chinese,expensive,Hell's Kitchen,17:45,22:45,1.8,true
+40,Dynasty Dragon,Chinese,expensive,Little Brazil,18:00,22:45,3.9,false
+41,Mandarin House,Chinese,medium,Herald Square,18:00,22:45,1.4,true
+42,Dragon Garden,Chinese,cheap,Murray Hill,14:45,21:45,2.9,false
+43,Lucky Dragon,Chinese,medium,Midtown West,15:30,23:30,4.9,true
+44,Golden Dragonfly,Chinese,medium,Times Square,10:15,21:30,4.6,false
+45,Chopstick Express,Chinese,medium,Turtle Bay,10:15,21:30,2.0,true
+46,Peking Palace,Chinese,medium,Theater District,14:45,23:30,1.3,true
+47,Dragon Buffet,Chinese,cheap,Midtown West,09:30,20:00,2.9,true
+48,Imperial Palace,Chinese,cheap,Hudson Yards,13:00,20:45,3.5,true
+49,Jade Palace,Chinese,expensive,Garment District,16:15,23:45,2.7,false
+50,Red Panda,Chinese,expensive,Hell's Kitchen,11:45,22:00,2.0,true
+51,Fortune Dragon,Chinese,expensive,Sutton Place,12:20,21:30,2.3,false
+52,Dragon Dynasty,Chinese,cheap,Midtown West,09:30,23:15,4.4,false
+53,Golden Dynasty,Chinese,cheap,Sutton Place,15:30,23:15,1.3,true
+54,Lantern Palace,Chinese,cheap,Madison Square,17:45,21:30,3.6,false
+55,Chinatown Garden,Chinese,cheap,Garment District,11:45,23:15,1.0,true
+56,Jasmine Palace,Chinese,expensive,Midtown,13:00,22:30,4.4,true
+57,Phoenix Palace,Chinese,cheap,Garment District,16:15,21:30,4.6,false
+58,Panda Buffet,Chinese,cheap,Koreatown,17:45,21:30,5.0,false
+59,Dragon Buffet,Chinese,cheap,Hell's Kitchen,15:30,23:45,1.2,false
+60,China Buffet,Chinese,cheap,Little Brazil,09:30,23:30,2.3,false
+61,Dynasty Buffet,Chinese,cheap,Garment District,15:30,22:45,4.2,true
+62,Mandarin Buffet,Chinese,expensive,Madison Square,13:00,22:00,3.7,true
+63,Dragon Buffet,Chinese,medium,Midtown,17:45,22:45,1.5,false
+64,Lucky Buffet,Chinese,expensive,Hudson Yards,12:20,23:30,4.4,false
+65,Golden Buffet,Chinese,medium,Turtle Bay,10:15,23:30,5.0,true
+66,Chopstick Buffet,Chinese,expensive,Garment District,18:00,22:30,3.5,false
+67,Peking Buffet,Chinese,expensive,Theater District,17:45,23:15,1.9,true
+68,Imperial Buffet,Chinese,expensive,Koreatown,14:45,23:15,1.4,false
+69,Jade Buffet,Chinese,cheap,Turtle Bay,10:15,23:45,1.0,true
+70,Red Buffet,Chinese,cheap,Columbus Circle,10:15,22:30,4.1,true
+71,Fortune Buffet,Chinese,cheap,Madison Square,15:30,21:30,1.3,true
+72,Dragon Buffet,Chinese,medium,Columbus Circle,10:15,21:30,2.7,true
+73,China Buffet,Chinese,medium,Hudson Yards,15:30,20:45,2.2,true
+74,Dynasty Buffet,Chinese,cheap,Garment District,16:15,21:45,5.0,false
+75,Mandarin Buffet,Chinese,expensive,Turtle Bay,16:15,22:30,2.6,false
+76,Dragon Buffet,Chinese,medium,Diamond District,14:45,21:30,4.3,true
+77,Lucky Buffet,Chinese,cheap,Madison Square,16:15,23:30,4.3,false
+78,Golden Buffet,Chinese,cheap,Little Brazil,15:30,20:45,3.0,false
+79,Chopstick Buffet,Chinese,expensive,Turtle Bay,13:00,22:30,3.4,true
+80,Peking Buffet,Chinese,medium,Hudson Yards,17:45,23:15,1.6,true
+81,Imperial Buffet,Chinese,expensive,Diamond District,11:45,20:45,4.5,false
+82,Jade Buffet,Chinese,cheap,Midtown East,18:00,20:45,4.6,false
+83,Red Buffet,Chinese,cheap,Columbus Circle,11:45,23:30,1.5,false
+84,Fortune Buffet,Chinese,cheap,Garment District,16:15,23:30,3.7,true
+85,Dragon Buffet,Chinese,cheap,Rockefeller Center,12:20,22:30,2.7,true
+86,China Buffet,Chinese,expensive,Midtown,14:45,23:45,3.1,false
+87,Dynasty Buffet,Chinese,expensive,Rockefeller Center,12:20,23:30,1.9,false
+88,Mandarin Buffet,Chinese,expensive,Tudor City,09:30,22:30,4.1,true
+89,Dragon Buffet,Chinese,cheap,Garment District,09:30,21:45,1.6,false
+90,Lucky Buffet,Chinese,cheap,Turtle Bay,15:30,22:00,2.1,true
+91,Golden Buffet,Chinese,expensive,Midtown,18:00,20:45,2.3,true
+92,Chopstick Buffet,Chinese,expensive,Madison Square,13:00,20:00,2.0,true
+93,Peking Buffet,Chinese,expensive,Midtown East,10:15,20:00,4.5,true
+94,Imperial Buffet,Chinese,expensive,Rockefeller Center,18:00,20:00,2.6,false
+95,Jade Buffet,Chinese,expensive,Midtown East,11:45,21:45,4.0,true
+96,Red Buffet,Chinese,medium,Little Brazil,17:45,20:45,2.7,true
+97,Fortune Buffet,Chinese,medium,Diamond District,17:45,22:00,3.2,true
+98,Golden Dragon,Chinese,expensive,Little Brazil,18:00,22:00,1.1,true
+99,Panda Express,Chinese,cheap,Garment District,17:45,22:30,2.2,false
+100,Lucky Bamboo,Chinese,expensive,Madison Square,16:15,22:45,2.7,true
+101,Ristorante Il Gusto,Italian,cheap,Madison Square,16:15,23:45,2.0,false
+102,Gelateria La Dolcezza,Italian,medium,Columbus Circle,10:15,21:30,3.3,false
+103,Caffe Milano,Italian,medium,Midtown,12:20,23:45,2.4,true
+104,Trattoria La Cucina,Italian,medium,Rockefeller Center,16:15,22:45,2.8,false
+105,Pizzeria Bella Napoli,Italian,medium,Garment District,16:15,23:15,1.5,true
+106,Osteria Da Mario,Italian,medium,Herald Square,14:45,20:00,3.4,false
+107,Ristorante La Perla,Italian,cheap,Diamond District,09:30,21:30,3.1,true
+108,Gelateria Dolce Vita,Italian,expensive,Midtown West,14:45,22:00,3.5,false
+109,Caffe Roma,Italian,medium,Tenderloin,17:45,20:45,3.8,false
+110,Trattoria La Famiglia,Italian,expensive,Sutton Place,13:00,20:00,3.5,false
+111,Pizzeria Amore,Italian,cheap,Rockefeller Center,12:20,21:45,1.9,false
+112,Osteria Del Sole,Italian,medium,Theater District,18:00,21:30,3.6,true
+113,Ristorante La Piazza,Italian,cheap,Little Brazil,16:15,22:00,4.5,false
+114,Trattoria Bella Vita,Italian,expensive,Madison Square,10:15,23:15,2.2,true
+115,Ristorante La Piazza,Italian,expensive,Theater District,17:45,23:15,2.6,false
+116,Osteria Del Sole,Italian,cheap,Madison Square,14:45,20:00,4.1,true
+117,Pizzeria Amore,Italian,medium,Tudor City,18:00,23:45,1.5,false
+118,Gelateria Dolce Vita,Italian,cheap,Times Square,10:15,20:00,1.3,false
+119,Caffe Roma,Italian,medium,Tudor City,10:15,22:45,4.9,true
+120,Ristorante Buon Gusto,Italian,expensive,Murray Hill,11:45,23:45,2.3,false
+121,Trattoria La Famiglia,Italian,cheap,Herald Square,13:00,22:45,2.9,false
+122,Pizzeria Napoli,Italian,cheap,Garment District,12:20,23:15,1.7,false
+123,Osteria Da Mario,Italian,expensive,Tudor City,18:00,23:30,2.5,false
+124,Ristorante La Perla,Italian,medium,Midtown,18:00,23:45,1.6,true
+125,Gelateria La Dolcezza,Italian,medium,Little Brazil,10:15,22:30,1.6,false
+126,Caffe Milano,Italian,cheap,Diamond District,11:45,23:15,1.4,false
+127,Trattoria La Cucina,Italian,medium,Sutton Place,14:45,23:45,2.8,true
+128,Pizzeria Bella Napoli,Italian,medium,Hell's Kitchen,14:45,22:30,3.8,true
+129,Osteria La Taverna,Italian,expensive,Midtown East,09:30,21:30,3.5,false
+130,Ristorante Il Gusto,Italian,expensive,Theater District,10:15,22:30,2.6,true
+131,Gelateria La Crema,Italian,medium,Little Brazil,15:30,23:30,2.9,false
+132,Caffe Venezia,Italian,medium,Herald Square,10:15,23:45,1.9,true
+133,Trattoria La Rustica,Italian,cheap,Hell's Kitchen,11:45,20:45,1.7,false
+134,Pizzeria La Margherita,Italian,cheap,Turtle Bay,11:45,22:45,1.9,true
+135,Osteria Il Vino,Italian,medium,Turtle Bay,17:45,23:15,1.6,false
+136,Ristorante La Sirena,Italian,expensive,Herald Square,09:30,23:15,4.0,true
+137,Gelateria La Fragola,Italian,cheap,Herald Square,18:00,22:30,1.7,false
+138,Caffe Firenze,Italian,cheap,Sutton Place,17:45,22:30,1.9,false
+139,Trattoria La Pergola,Italian,cheap,Garment District,16:15,21:45,2.3,true
+140,Pizzeria La Focaccia,Italian,expensive,Midtown East,17:45,22:45,2.7,true
+141,Osteria La Bottega,Italian,cheap,Koreatown,15:30,21:45,4.1,true
+142,Ristorante Il Mare,Italian,medium,Tenderloin,14:45,23:45,4.6,true
+143,Gelateria La Vaniglia,Italian,cheap,Tenderloin,10:15,21:45,2.5,false
+144,Caffe Sorrento,Italian,cheap,Madison Square,09:30,22:45,3.6,false
+145,Trattoria La Grotta,Italian,medium,Hell's Kitchen,10:15,20:00,1.0,true
+146,Pizzeria La Pizza,Italian,cheap,Columbus Circle,13:00,23:30,1.1,true
+147,Osteria La Cantina,Italian,expensive,Little Brazil,13:00,21:45,1.2,true
+148,Ristorante La Luna,Italian,expensive,Koreatown,09:30,23:15,4.8,true
+149,Gelateria La Cioccolata,Italian,cheap,Midtown East,13:00,21:30,1.5,false
+150,Caffe Capri,Italian,medium,Sutton Place,11:45,21:30,2.5,false
+151,Trattoria La Terrazza,Italian,medium,Little Brazil,12:20,22:30,4.8,false
+152,Pizzeria La Forchetta,Italian,medium,Midtown East,09:30,22:00,3.9,true
+153,Osteria La Locanda,Italian,cheap,Diamond District,16:15,21:30,4.5,true
+154,Ristorante Il Sole,Italian,expensive,Diamond District,16:15,21:30,2.2,true
+155,Gelateria La Nocciola,Italian,expensive,Garment District,10:15,20:45,4.7,true
+156,Caffe Toscana,Italian,medium,Rockefeller Center,17:45,23:30,1.2,true
+157,Trattoria La Spiaggia,Italian,medium,Hudson Yards,14:45,22:30,2.8,false
+158,Pizzeria La Panetteria,Italian,expensive,Koreatown,13:00,23:30,1.5,false
+159,Osteria La Sosta,Italian,expensive,Turtle Bay,09:30,23:30,4.1,true
+160,Ristorante La Stella,Italian,cheap,Little Brazil,12:20,21:45,2.7,false
+161,Gelateria La Menta,Italian,expensive,Midtown East,09:30,23:30,4.2,true
+162,Caffe Sicilia,Italian,medium,Turtle Bay,11:45,23:15,4.7,false
+163,Trattoria La Montagna,Italian,medium,Turtle Bay,14:45,22:00,3.4,true
+164,Pizzeria La Trattoria,Italian,cheap,Rockefeller Center,12:20,23:45,3.3,false
+165,Osteria La Piazzetta,Italian,medium,Midtown West,13:00,22:45,2.6,false
+166,Ristorante Il Pescatore,Italian,cheap,Tudor City,16:15,22:45,3.4,false
+167,Gelateria La Banana,Italian,cheap,Diamond District,12:20,20:45,3.3,true
+168,Caffe Napoli,Italian,cheap,Koreatown,16:15,22:45,3.7,true
+169,Trattoria La Campagna,Italian,expensive,Tenderloin,10:15,23:45,4.8,true
+170,Pizzeria La Fornace,Italian,cheap,Herald Square,09:30,22:00,3.2,false
+171,Osteria La Cucina,Italian,medium,Columbus Circle,10:15,20:00,1.2,false
+172,Ristorante La Bottega,Italian,expensive,Tenderloin,18:00,22:30,2.8,true
+173,Gelateria La Fragola,Italian,medium,Garment District,14:45,23:30,2.3,true
+174,Caffe Roma,Italian,cheap,Garment District,11:45,23:30,2.1,false
+175,Trattoria La Pergola,Italian,expensive,Little Brazil,09:30,21:45,1.1,false
+176,Pizzeria La Margherita,Italian,expensive,Little Brazil,14:45,22:30,4.4,false
+177,Osteria Il Vino,Italian,cheap,Tenderloin,18:00,22:45,1.9,true
+178,Ristorante La Sirena,Italian,cheap,Columbus Circle,11:45,22:45,2.3,true
+179,Gelateria La Crema,Italian,cheap,Hell's Kitchen,10:15,22:45,3.8,true
+180,Caffe Venezia,Italian,expensive,Hell's Kitchen,12:20,22:45,2.3,false
+181,Trattoria La Rustica,Italian,cheap,Hell's Kitchen,15:30,22:30,1.2,true
+182,Pizzeria La Focaccia,Italian,cheap,Koreatown,15:30,23:45,4.6,false
+183,Osteria La Taverna,Italian,expensive,Herald Square,11:45,20:00,3.5,true
+184,Ristorante Il Gusto,Italian,cheap,Tenderloin,12:20,21:45,2.0,false
+185,Gelateria La Dolcezza,Italian,expensive,Theater District,17:45,20:00,2.1,false
+186,Caffe Milano,Italian,cheap,Turtle Bay,11:45,22:45,4.5,true
+187,Trattoria La Cucina,Italian,medium,Madison Square,10:15,22:45,3.7,false
+188,Pizzeria Bella Napoli,Italian,cheap,Koreatown,16:15,23:15,2.3,false
+189,Osteria Da Mario,Italian,medium,Columbus Circle,10:15,21:45,2.0,true
+190,Ristorante La Perla,Italian,cheap,Midtown,10:15,20:00,2.3,true
+191,Gelateria Dolce Vita,Italian,expensive,Hell's Kitchen,17:45,21:30,3.7,false
+192,Caffe Roma,Italian,cheap,Tenderloin,15:30,21:45,2.9,false
+193,Trattoria La Famiglia,Italian,cheap,Midtown West,11:45,23:15,1.7,false
+194,Pizzeria Amore,Italian,cheap,Koreatown,16:15,23:30,1.3,false
+195,Osteria Del Sole,Italian,medium,Tenderloin,17:45,23:45,3.7,true
+196,Ristorante La Piazza,Italian,medium,Tudor City,09:30,22:30,2.2,true
+197,Gelateria La Fragola,Italian,medium,Koreatown,17:45,22:30,3.0,true
+198,Caffe Firenze,Italian,cheap,Sutton Place,13:00,22:45,4.7,false
+199,Trattoria La Pergola,Italian,expensive,Midtown East,12:20,23:45,1.3,false
+200,Pizzeria La Pizza,Italian,medium,Diamond District,17:45,23:15,2.6,true
+201,Tamales Temple,Mexican,expensive,Hudson Yards,11:45,21:30,1.8,false
+202,Chile Relleno Retreat,Mexican,cheap,Sutton Place,18:00,20:00,5.0,false
+203,Sangria Sanctuary,Mexican,cheap,Midtown,14:45,21:30,1.8,false
+204,Chilaquiles Chamber,Mexican,expensive,Rockefeller Center,13:00,22:30,4.0,false
+205,Papaya Paradise,Mexican,cheap,Diamond District,11:45,20:45,3.4,true
+206,Mole Manor,Mexican,expensive,Tenderloin,18:00,22:00,1.3,false
+207,Jicama Junction,Mexican,expensive,Diamond District,16:15,20:00,2.1,true
+208,Huevos Rancheros Hideaway,Mexican,expensive,Hell's Kitchen,14:45,22:30,3.2,false
+209,Pulpo Pavilion,Mexican,cheap,Turtle Bay,16:15,22:30,2.8,false
+210,Pina Colada Palace,Mexican,cheap,Herald Square,15:30,23:15,2.0,false
+211,Pork Pibil Pavilion,Mexican,medium,Little Brazil,10:15,23:15,2.2,true
+212,Pescado Perch,Mexican,medium,Sutton Place,15:30,22:30,2.8,false
+213,Machaca Mansion,Mexican,cheap,Theater District,17:45,22:45,4.8,false
+214,Lengua Lodge,Mexican,cheap,Times Square,14:45,22:00,2.1,true
+215,Jalapeno Joint,Mexican,expensive,Little Brazil,10:15,20:00,2.3,true
+216,Huitlacoche Haven,Mexican,expensive,Tenderloin,13:00,21:45,1.1,true
+217,Gordita Garden,Mexican,medium,Rockefeller Center,09:30,23:45,3.6,false
+218,Guisado Grove,Mexican,expensive,Times Square,10:15,20:00,4.3,false
+219,Guajillo Grotto,Mexican,cheap,Sutton Place,11:45,22:00,2.0,false
+220,Frijoles Fiesta,Mexican,medium,Hudson Yards,10:15,20:00,3.3,true
+221,Elote Estate,Mexican,expensive,Garment District,10:15,21:30,5.0,false
+222,Cochinita Cottage,Mexican,expensive,Murray Hill,16:15,22:45,3.4,false
+223,Camarones Cabin,Mexican,expensive,Hell's Kitchen,17:45,23:30,2.4,false
+224,Cactus Cove,Mexican,cheap,Hell's Kitchen,14:45,22:45,4.9,true
+225,Barbacoa Bungalow,Mexican,expensive,Turtle Bay,17:45,23:15,1.7,false
+226,Aguachile Abode,Mexican,medium,Midtown,16:15,23:45,3.5,false
+227,Albondigas Alley,Mexican,medium,Midtown,10:15,21:45,2.0,true
+228,Ancho Adobe,Mexican,cheap,Madison Square,10:15,23:30,4.9,false
+229,Birria Bistro,Mexican,medium,Koreatown,15:30,20:45,2.6,true
+230,Cactus Cantina,Mexican,medium,Rockefeller Center,09:30,21:30,3.7,true
+231,Carnitas Cove,Mexican,medium,Rockefeller Center,13:00,20:45,3.6,false
+232,Chalupa Chalet,Mexican,cheap,Sutton Place,12:20,21:45,3.6,false
+233,Chicharron Cabin,Mexican,expensive,Hell's Kitchen,10:15,22:30,2.3,false
+234,Chorizo Cottage,Mexican,cheap,Hudson Yards,14:45,20:00,2.9,false
+235,Cilantro Corner,Mexican,cheap,Columbus Circle,11:45,21:45,2.0,false
+236,Cochinita Casita,Mexican,medium,Sutton Place,18:00,20:45,1.9,false
+237,Crepas Cabin,Mexican,medium,Koreatown,10:15,20:00,1.3,true
+238,Dulce de Leche Den,Mexican,expensive,Times Square,15:30,23:15,1.9,true
+239,Empanada Enclave,Mexican,medium,Koreatown,11:45,23:30,4.9,true
+240,Escamoles Estate,Mexican,expensive,Madison Square,15:30,20:00,3.2,false
+241,Fideo Farm,Mexican,medium,Tudor City,10:15,20:00,3.7,true
+242,Flan Fort,Mexican,cheap,Turtle Bay,18:00,21:30,1.9,false
+243,Gordita Garden,Mexican,medium,Garment District,13:00,23:30,3.7,false
+244,Horchata Hut,Mexican,medium,Tenderloin,09:30,21:30,2.8,true
+245,Jalapeno Junction,Mexican,cheap,Sutton Place,11:45,20:45,1.5,true
+246,Jicama Jungle,Mexican,cheap,Little Brazil,15:30,22:00,3.4,true
+247,Limeade Lodge,Mexican,cheap,Theater District,12:20,23:15,2.5,false
+248,Masa Manor,Mexican,medium,Diamond District,11:45,21:30,2.1,true
+249,Mole Mansion,Mexican,medium,Midtown East,09:30,20:45,4.1,true
+250,Nopal Nook,Mexican,expensive,Tudor City,18:00,20:45,2.1,true
+251,Pambazo Pavilion,Mexican,medium,Koreatown,10:15,23:45,3.6,true
+252,Pepino Palace,Mexican,medium,Diamond District,13:00,21:45,2.8,true
+253,Pozole Pavilion,Mexican,expensive,Columbus Circle,14:45,23:15,5.0,false
+254,Queso Quarters,Mexican,cheap,Turtle Bay,15:30,22:30,3.3,true
+255,Rajas Retreat,Mexican,medium,Koreatown,10:15,22:00,1.8,false
+256,Salsa Shack,Mexican,expensive,Sutton Place,14:45,22:30,3.3,false
+257,Sopa Spot,Mexican,cheap,Diamond District,09:30,22:30,3.4,true
+258,Taco Terrace,Mexican,expensive,Hell's Kitchen,10:15,20:00,4.0,true
+259,Tamarindo Tavern,Mexican,expensive,Hell's Kitchen,18:00,23:45,3.8,true
+260,Tlacoyo Tower,Mexican,medium,Midtown East,16:15,23:15,1.2,true
+261,Tlayuda Terrace,Mexican,medium,Diamond District,09:30,21:45,4.9,false
+262,Torta Tavern,Mexican,expensive,Midtown East,10:15,21:30,2.6,true
+263,Tostada Terrace,Mexican,expensive,Times Square,15:30,22:45,3.3,true
+264,Vermicelli Villa,Mexican,expensive,Hudson Yards,17:45,21:45,4.9,false
+265,Xoconostle Xanadu,Mexican,expensive,Herald Square,12:20,22:45,1.8,true
+266,Yucatan Yurt,Mexican,cheap,Turtle Bay,09:30,21:45,3.6,false
+267,Zarzamora Zenith,Mexican,cheap,Tenderloin,10:15,22:45,4.5,false
+268,Taco Town,Mexican,expensive,Turtle Bay,18:00,23:15,2.2,true
+269,Burrito Barn,Mexican,medium,Hell's Kitchen,17:45,20:45,2.8,true
+270,Salsa Shack,Mexican,cheap,Garment District,13:00,22:00,2.1,false
+271,Enchilada Emporium,Mexican,cheap,Rockefeller Center,11:45,23:15,1.9,false
+272,Quesadilla Quarters,Mexican,expensive,Times Square,10:15,20:45,1.2,false
+273,Guacamole Grill,Mexican,medium,Columbus Circle,14:45,21:30,4.6,true
+274,Chimichanga Chalet,Mexican,medium,Madison Square,16:15,22:45,2.4,false
+275,Nachos Nook,Mexican,medium,Garment District,13:00,21:30,2.7,true
+276,Fajita Factory,Mexican,expensive,Columbus Circle,14:45,20:00,4.8,true
+277,Tamale Tavern,Mexican,expensive,Theater District,09:30,20:00,4.5,false
+278,Margarita Mansion,Mexican,expensive,Midtown East,11:45,20:00,3.4,false
+279,Ceviche Corner,Mexican,expensive,Rockefeller Center,14:45,23:45,2.1,true
+280,Churro Chateau,Mexican,medium,Little Brazil,13:00,23:30,3.8,true
+281,Tostada Terrace,Mexican,cheap,Theater District,09:30,21:45,1.6,false
+282,Pozole Palace,Mexican,medium,Midtown,17:45,22:30,1.2,true
+283,Empanada Eatery,Mexican,expensive,Herald Square,12:20,23:15,1.7,false
+284,Horchata House,Mexican,medium,Madison Square,14:45,21:45,2.2,false
+285,Sopes Spot,Mexican,cheap,Columbus Circle,09:30,22:00,1.9,false
+286,Tortilla Tower,Mexican,cheap,Theater District,17:45,22:45,4.3,true
+287,Pico de Gallo Place,Mexican,medium,Murray Hill,14:45,21:45,1.2,false
+288,Flauta Fort,Mexican,expensive,Diamond District,18:00,21:30,1.9,true
+289,Carnitas Castle,Mexican,cheap,Turtle Bay,15:30,22:00,2.4,false
+290,Tamales Temple,Mexican,medium,Times Square,10:15,23:30,2.8,true
+291,Chile Relleno Retreat,Mexican,cheap,Koreatown,12:20,21:30,1.1,true
+292,Sangria Sanctuary,Mexican,medium,Koreatown,16:15,20:45,2.4,true
+293,Chilaquiles Chamber,Mexican,expensive,Diamond District,16:15,22:30,1.7,false
+294,Papaya Paradise,Mexican,medium,Midtown West,17:45,22:45,2.0,true
+295,Mole Manor,Mexican,cheap,Times Square,11:45,20:45,3.0,true
+296,Jicama Junction,Mexican,cheap,Hell's Kitchen,16:15,21:30,1.4,false
+297,Huevos Rancheros Hideaway,Mexican,cheap,Times Square,09:30,22:45,1.8,false
+298,Pulpo Pavilion,Mexican,expensive,Theater District,11:45,22:30,1.5,false
+299,Pina Colada Palace,Mexican,cheap,Midtown,18:00,22:00,4.5,false
+300,Pork Pibil Pavilion,Mexican,expensive,Little Brazil,13:00,22:00,3.9,false
+301,Fukushima Sashimi,Japanese,medium,Koreatown,18:00,22:30,4.6,false
+302,Yamaguchi Yakitori,Japanese,expensive,Columbus Circle,11:45,20:45,3.3,false
+303,Kochi Bento,Japanese,expensive,Midtown West,13:00,20:00,2.2,false
+304,Tottori Okonomiyaki,Japanese,expensive,Midtown,09:30,22:45,3.0,false
+305,Saga Shabu Shabu,Japanese,cheap,Hudson Yards,14:45,21:45,1.5,false
+306,Wakayama Soba,Japanese,cheap,Madison Square,12:20,22:00,2.0,true
+307,Oita Hotpot,Japanese,cheap,Rockefeller Center,12:20,23:30,3.8,false
+308,Chiba Sushi Bar,Japanese,cheap,Tudor City,17:45,22:30,3.6,true
+309,Gifu Ramen House,Japanese,expensive,Turtle Bay,14:45,22:00,3.2,false
+310,Shiga Izakaya,Japanese,cheap,Midtown West,09:30,20:45,4.3,true
+311,Nagasaki Teppanyaki,Japanese,expensive,Rockefeller Center,09:30,22:30,2.9,false
+312,Okayama Udon,Japanese,expensive,Columbus Circle,18:00,22:45,4.5,false
+313,Miyagi Tempura,Japanese,expensive,Little Brazil,13:00,23:15,3.8,false
+314,Aichi Sashimi,Japanese,medium,Tenderloin,14:45,22:45,2.9,false
+315,Kagawa Yakitori,Japanese,cheap,Tudor City,09:30,22:30,3.8,false
+316,Tokushima Bento,Japanese,medium,Herald Square,09:30,22:30,4.3,true
+317,Hiroshima Okonomiyaki,Japanese,cheap,Tudor City,11:45,21:30,4.2,false
+318,Kagoshima Shabu Shabu,Japanese,cheap,Tudor City,14:45,21:30,1.6,false
+319,Okinawa Soba,Japanese,medium,Theater District,16:15,23:45,4.4,true
+320,Hokkaido Hotpot,Japanese,expensive,Theater District,16:15,23:45,2.0,false
+321,Miyazaki Sushi Bar,Japanese,medium,Midtown West,13:00,23:45,2.5,false
+322,Nagano Ramen House,Japanese,cheap,Madison Square,17:45,23:45,1.6,false
+323,Ibaraki Izakaya,Japanese,medium,Sutton Place,10:15,23:45,2.1,false
+324,Kumamoto Teppanyaki,Japanese,cheap,Midtown East,12:20,22:45,4.6,false
+325,Shizuoka Udon,Japanese,cheap,Herald Square,11:45,23:15,4.4,true
+326,Aomori Tempura,Japanese,medium,Murray Hill,14:45,21:45,2.6,true
+327,Mie Sashimi,Japanese,cheap,Tudor City,16:15,21:30,4.6,true
+328,Tochigi Yakitori,Japanese,medium,Madison Square,13:00,22:30,4.7,false
+329,Yamanashi Bento,Japanese,cheap,Turtle Bay,17:45,20:00,2.9,true
+330,Iwate Okonomiyaki,Japanese,expensive,Garment District,09:30,21:45,2.6,true
+331,Gunma Shabu Shabu,Japanese,medium,Hudson Yards,12:20,23:30,4.0,true
+332,Ehime Soba,Japanese,cheap,Sutton Place,16:15,20:00,3.1,true
+333,Yamagata Hotpot,Japanese,cheap,Diamond District,15:30,21:45,1.1,true
+334,Akita Sushi Bar,Japanese,medium,Sutton Place,14:45,23:45,1.2,false
+335,Shimane Ramen House,Japanese,expensive,Tenderloin,16:15,20:00,4.9,false
+336,Fukui Izakaya,Japanese,medium,Times Square,17:45,22:45,2.2,true
+337,Niigata Teppanyaki,Japanese,cheap,Midtown,12:20,23:15,3.4,true
+338,Toyama Udon,Japanese,expensive,Midtown West,17:45,20:00,2.0,true
+339,Ishikawa Tempura,Japanese,medium,Midtown West,14:45,21:30,3.5,false
+340,Fukushima Sashimi,Japanese,medium,Rockefeller Center,17:45,21:45,4.2,false
+341,Yamaguchi Yakitori,Japanese,medium,Tenderloin,11:45,23:30,3.4,true
+342,Kochi Bento,Japanese,expensive,Tudor City,12:20,23:45,4.8,false
+343,Tottori Okonomiyaki,Japanese,cheap,Rockefeller Center,12:20,21:45,1.9,false
+344,Saga Shabu Shabu,Japanese,expensive,Tenderloin,10:15,20:00,4.1,false
+345,Wakayama Soba,Japanese,cheap,Murray Hill,17:45,21:30,2.7,true
+346,Oita Hotpot,Japanese,cheap,Sutton Place,17:45,20:00,4.4,true
+347,Chiba Sushi Bar,Japanese,expensive,Theater District,16:15,23:45,1.3,false
+348,Gifu Ramen House,Japanese,cheap,Garment District,10:15,21:30,2.9,false
+349,Shiga Izakaya,Japanese,cheap,Midtown,18:00,21:45,4.3,true
+350,Nagasaki Teppanyaki,Japanese,medium,Diamond District,12:20,21:45,3.8,true
+351,Okayama Udon,Japanese,cheap,Madison Square,13:00,23:45,2.0,false
+352,Miyagi Tempura,Japanese,expensive,Midtown West,15:30,23:15,2.3,true
+353,Aichi Sashimi,Japanese,medium,Herald Square,16:15,23:45,3.3,false
+354,Kagawa Yakitori,Japanese,expensive,Madison Square,13:00,21:45,3.4,true
+355,Tokushima Bento,Japanese,cheap,Herald Square,18:00,22:45,2.6,false
+356,Hiroshima Okonomiyaki,Japanese,cheap,Columbus Circle,18:00,23:45,3.2,true
+357,Sakura Sushi,Japanese,expensive,Midtown,11:45,22:45,1.0,false
+358,Tokyo Ramen,Japanese,cheap,Tenderloin,16:15,22:45,3.0,true
+359,Osaka Grill,Japanese,cheap,Herald Square,09:30,20:45,4.9,false
+360,Kyoto Izakaya,Japanese,medium,Diamond District,17:45,22:45,3.3,true
+361,Hiroshima Teppanyaki,Japanese,cheap,Garment District,11:45,21:30,1.6,true
+362,Nagoya Udon,Japanese,expensive,Times Square,10:15,22:00,3.7,false
+363,Fukuoka Tempura,Japanese,cheap,Herald Square,16:15,22:30,1.4,true
+364,Sapporo Sashimi,Japanese,medium,Theater District,15:30,21:45,1.2,true
+365,Kobe Yakitori,Japanese,cheap,Columbus Circle,17:45,21:45,2.4,true
+366,Nara Bento,Japanese,cheap,Turtle Bay,13:00,21:45,3.6,false
+367,Yokohama Okonomiyaki,Japanese,cheap,Midtown East,12:20,21:45,3.7,true
+368,Kagoshima Shabu Shabu,Japanese,cheap,Columbus Circle,14:45,23:30,1.9,true
+369,Okinawa Soba,Japanese,expensive,Times Square,14:45,22:00,2.7,true
+370,Hokkaido Hotpot,Japanese,cheap,Times Square,11:45,23:30,3.7,false
+371,Miyazaki Sushi Bar,Japanese,medium,Sutton Place,18:00,22:00,4.9,false
+372,Nagano Ramen House,Japanese,expensive,Koreatown,13:00,22:00,3.2,false
+373,Ibaraki Izakaya,Japanese,expensive,Turtle Bay,13:00,23:45,4.2,false
+374,Kumamoto Teppanyaki,Japanese,cheap,Little Brazil,13:00,22:45,4.2,true
+375,Shizuoka Udon,Japanese,medium,Times Square,18:00,23:45,3.4,true
+376,Aomori Tempura,Japanese,cheap,Sutton Place,10:15,21:30,3.0,false
+377,Mie Sashimi,Japanese,cheap,Little Brazil,15:30,22:45,1.6,true
+378,Tochigi Yakitori,Japanese,medium,Theater District,14:45,23:45,3.0,true
+379,Yamanashi Bento,Japanese,medium,Hudson Yards,18:00,22:30,4.5,true
+380,Iwate Okonomiyaki,Japanese,expensive,Garment District,09:30,22:00,3.1,false
+381,Gunma Shabu Shabu,Japanese,medium,Midtown,09:30,20:00,3.1,false
+382,Ehime Soba,Japanese,cheap,Herald Square,09:30,20:00,4.1,true
+383,Yamagata Hotpot,Japanese,cheap,Sutton Place,15:30,22:30,3.0,true
+384,Akita Sushi Bar,Japanese,medium,Midtown East,10:15,20:00,4.0,false
+385,Shimane Ramen House,Japanese,expensive,Times Square,14:45,22:45,2.7,true
+386,Fukui Izakaya,Japanese,medium,Theater District,18:00,23:15,1.0,false
+387,Niigata Teppanyaki,Japanese,medium,Diamond District,17:45,22:30,3.8,true
+388,Toyama Udon,Japanese,cheap,Rockefeller Center,11:45,21:45,2.5,true
+389,Ishikawa Tempura,Japanese,medium,Turtle Bay,11:45,22:45,2.4,true
+390,Fukushima Sashimi,Japanese,cheap,Madison Square,09:30,23:15,3.4,true
+391,Yamaguchi Yakitori,Japanese,cheap,Midtown West,14:45,20:00,3.4,false
+392,Kochi Bento,Japanese,medium,Herald Square,16:15,20:00,3.1,false
+393,Tottori Okonomiyaki,Japanese,cheap,Diamond District,16:15,23:15,3.8,true
+394,Saga Shabu Shabu,Japanese,cheap,Garment District,16:15,23:45,3.1,false
+395,Wakayama Soba,Japanese,expensive,Midtown West,18:00,23:15,2.6,true
+396,Oita Hotpot,Japanese,expensive,Times Square,15:30,22:30,1.1,true
+397,Chiba Sushi Bar,Japanese,expensive,Tenderloin,16:15,21:30,4.5,false
+398,Gifu Ramen House,Japanese,expensive,Times Square,13:00,20:00,4.5,false
+399,Shiga Izakaya,Japanese,cheap,Columbus Circle,14:45,23:15,2.6,true
+400,Nagasaki Teppanyaki,Japanese,cheap,Hell's Kitchen,17:45,22:45,1.1,true
+401,Chole Chateau,Indian,expensive,Theater District,09:30,21:30,2.7,true
+402,Puri Palace,Indian,medium,Midtown,18:00,21:45,3.2,true
+403,Kofta Kitchen,Indian,cheap,Little Brazil,16:15,23:45,3.4,true
+404,Pesarattu Paradise,Indian,cheap,Diamond District,17:45,22:00,1.6,false
+405,Rogan Josh Retreat,Indian,expensive,Diamond District,09:30,20:00,3.9,true
+406,Bhuna Bungalow,Indian,medium,Columbus Circle,12:20,23:15,3.9,true
+407,Bhindi Bistro,Indian,cheap,Turtle Bay,16:15,20:45,4.4,true
+408,Pakoda Pavilion,Indian,cheap,Diamond District,11:45,23:45,1.2,true
+409,Chana Masala Mansion,Indian,cheap,Sutton Place,14:45,22:45,4.3,false
+410,Dahi Dhaba,Indian,expensive,Sutton Place,10:15,23:30,3.9,true
+411,Pav Bhaji Palace,Indian,expensive,Koreatown,10:15,21:45,1.2,false
+412,Rajma Retreat,Indian,medium,Hell's Kitchen,12:20,23:45,3.7,true
+413,Samosa Sanctuary,Indian,expensive,Little Brazil,18:00,21:45,2.2,false
+414,Tikka Terrace,Indian,cheap,Midtown,11:45,23:15,1.7,false
+415,Vada Villa,Indian,cheap,Rockefeller Center,16:15,22:30,5.0,true
+416,Veggie Vatika,Indian,medium,Tenderloin,16:15,22:45,3.7,false
+417,Bhel Bhavan,Indian,expensive,Little Brazil,09:30,23:45,1.5,true
+418,Chana Chaska,Indian,expensive,Midtown,09:30,20:00,2.7,false
+419,Dum Aloo Den,Indian,expensive,Times Square,13:00,23:30,4.9,false
+420,Gobi Garden,Indian,cheap,Tenderloin,11:45,20:00,3.7,true
+421,Haldi Hideaway,Indian,expensive,Columbus Circle,17:45,22:45,2.4,true
+422,Jalfrezi Junction,Indian,expensive,Tudor City,14:45,22:00,3.9,false
+423,Kadai Kiosk,Indian,medium,Tenderloin,18:00,20:45,4.9,false
+424,Kofta Korner,Indian,medium,Times Square,15:30,22:45,1.8,false
+425,Ladoo Lounge,Indian,expensive,Sutton Place,10:15,23:45,3.0,false
+426,Makhani Mansion,Indian,expensive,Sutton Place,16:15,21:30,1.3,false
+427,Mango Masala,Indian,medium,Little Brazil,15:30,21:45,4.6,false
+428,Mint Masquerade,Indian,expensive,Midtown East,14:45,23:45,4.4,false
+429,Murgh Mahal,Indian,cheap,Midtown,09:30,23:30,3.9,true
+430,Nan Nook,Indian,medium,Theater District,10:15,23:15,2.1,false
+431,Pakora Pantry,Indian,cheap,Tudor City,18:00,22:30,1.3,false
+432,Papadum Parlor,Indian,medium,Diamond District,11:45,22:30,1.4,false
+433,Pav Bhaji Place,Indian,expensive,Midtown East,18:00,22:45,4.3,false
+434,Pulao Pavilion,Indian,medium,Diamond District,10:15,23:15,4.4,false
+435,Raita Room,Indian,medium,Hell's Kitchen,11:45,20:00,1.8,false
+436,Rasam Retreat,Indian,expensive,Times Square,09:30,23:15,2.2,true
+437,Roti Rendezvous,Indian,expensive,Rockefeller Center,11:45,20:45,3.5,true
+438,Samosa Spot,Indian,medium,Herald Square,17:45,22:00,1.4,true
+439,Shahi Shanty,Indian,medium,Sutton Place,14:45,22:45,2.2,false
+440,Tandoori Tavern,Indian,cheap,Midtown East,14:45,20:45,4.3,true
+441,Thali Terrace,Indian,cheap,Turtle Bay,10:15,22:45,1.2,false
+442,Uttapam Utopia,Indian,medium,Hell's Kitchen,09:30,23:15,2.2,false
+443,Vada Venue,Indian,expensive,Midtown West,17:45,20:00,4.8,false
+444,Veggie Villa,Indian,cheap,Little Brazil,15:30,21:45,4.4,false
+445,Zafrani Zenith,Indian,expensive,Tenderloin,14:45,21:30,1.3,false
+446,Spice Palace,Indian,expensive,Midtown,10:15,23:30,4.7,false
+447,Tandoori Delight,Indian,expensive,Rockefeller Center,15:30,23:15,3.6,false
+448,Curry House,Indian,medium,Sutton Place,16:15,23:30,3.0,true
+449,Naan Stop,Indian,cheap,Little Brazil,12:20,20:00,2.2,false
+450,Mango Lassi,Indian,expensive,Little Brazil,18:00,21:30,1.1,false
+451,Chaat Corner,Indian,expensive,Sutton Place,14:45,21:30,1.9,true
+452,Samosa Shack,Indian,medium,Turtle Bay,15:30,21:30,2.4,false
+453,Biryani Bliss,Indian,expensive,Hudson Yards,15:30,23:30,2.0,true
+454,Masala Magic,Indian,expensive,Rockefeller Center,10:15,20:45,2.5,true
+455,Papadum Palace,Indian,expensive,Sutton Place,15:30,23:30,4.9,false
+456,Dosa Diner,Indian,medium,Rockefeller Center,16:15,23:30,3.3,true
+457,Chutney Chat,Indian,cheap,Hudson Yards,12:20,22:00,4.9,true
+458,Vindaloo Villa,Indian,medium,Herald Square,16:15,22:00,3.7,true
+459,Roti Roll,Indian,expensive,Little Brazil,10:15,23:15,3.4,true
+460,Paneer Paradise,Indian,expensive,Turtle Bay,11:45,22:45,1.8,true
+461,Korma Kitchen,Indian,expensive,Hudson Yards,13:00,21:30,4.1,true
+462,Bhaji Bistro,Indian,medium,Columbus Circle,10:15,21:45,1.7,true
+463,Aloo Aroma,Indian,medium,Diamond District,16:15,20:00,1.0,true
+464,Gulab Jamun Garden,Indian,medium,Hudson Yards,14:45,23:45,2.2,true
+465,Jalebi Junction,Indian,medium,Murray Hill,10:15,21:45,2.4,true
+466,Pani Puri Place,Indian,cheap,Garment District,12:20,20:00,1.5,false
+467,Kebab Kingdom,Indian,expensive,Times Square,10:15,21:30,2.7,false
+468,Raita Retreat,Indian,medium,Turtle Bay,09:30,21:30,3.1,false
+469,Chai Chateau,Indian,expensive,Koreatown,15:30,22:30,2.0,false
+470,Pakora Palace,Indian,expensive,Midtown East,12:20,21:30,2.9,false
+471,Lassi Lounge,Indian,medium,Sutton Place,10:15,22:45,2.5,false
+472,Bhel Puri Bar,Indian,medium,Little Brazil,13:00,22:30,1.1,true
+473,Paratha Pavilion,Indian,cheap,Theater District,17:45,20:00,4.8,false
+474,Kulfi Kiosk,Indian,cheap,Koreatown,14:45,21:45,4.4,false
+475,Pav Bhaji Point,Indian,medium,Herald Square,10:15,23:15,1.5,true
+476,Rasgulla Retreat,Indian,cheap,Herald Square,18:00,20:45,2.5,true
+477,Kheer Kabin,Indian,medium,Murray Hill,12:20,22:00,3.9,false
+478,Chana Chaat Cafe,Indian,expensive,Little Brazil,16:15,23:30,1.5,true
+479,Pulao Palace,Indian,expensive,Midtown,12:20,22:30,3.9,true
+480,Pickle Parlor,Indian,expensive,Little Brazil,13:00,20:00,3.1,true
+481,Poha Place,Indian,expensive,Hell's Kitchen,09:30,23:15,2.7,true
+482,Dhokla Delight,Indian,cheap,Diamond District,10:15,21:45,1.1,false
+483,Kadhi Kanteen,Indian,expensive,Rockefeller Center,15:30,22:00,4.7,false
+484,Sambar Station,Indian,medium,Midtown East,15:30,22:00,3.7,true
+485,Idli Inn,Indian,medium,Theater District,13:00,22:00,4.1,false
+486,Upma Utopia,Indian,expensive,Garment District,18:00,21:30,1.6,false
+487,Rasam Room,Indian,expensive,Madison Square,17:45,21:45,1.2,true
+488,Mysore Masala,Indian,medium,Midtown,13:00,23:15,4.4,false
+489,Malai Marination,Indian,expensive,Midtown East,17:45,23:15,4.5,true
+490,Chole Chateau,Indian,cheap,Tenderloin,12:20,21:45,2.8,false
+491,Puri Palace,Indian,medium,Little Brazil,14:45,20:45,4.3,true
+492,Kofta Kitchen,Indian,cheap,Herald Square,10:15,21:45,2.2,true
+493,Pesarattu Paradise,Indian,cheap,Koreatown,09:30,22:00,4.1,true
+494,Rogan Josh Retreat,Indian,expensive,Tenderloin,10:15,21:45,1.3,true
+495,Bhuna Bungalow,Indian,expensive,Little Brazil,18:00,23:15,3.5,false
+496,Bhindi Bistro,Indian,cheap,Hell's Kitchen,16:15,22:30,4.3,true
+497,Pakoda Pavilion,Indian,medium,Theater District,13:00,20:00,1.9,false
+498,Chana Masala Mansion,Indian,expensive,Garment District,14:45,23:30,1.1,true
+499,Dahi Dhaba,Indian,cheap,Herald Square,15:30,21:45,3.4,false
+500,Pav Bhaji Palace,Indian,medium,Diamond District,11:45,23:30,2.8,false
+501,Le Cafe du Jardin,French,cheap,Garment District,10:15,21:45,3.9,false
+502,La Petite Epicerie,French,expensive,Koreatown,11:45,21:30,2.3,true
+503,Le Bistro du Lac,French,expensive,Little Brazil,09:30,21:45,2.4,false
+504,La Cuisine de la Riviere,French,medium,Times Square,16:15,22:30,4.7,false
+505,Le Cafe du Temps,French,medium,Midtown,09:30,23:45,2.8,true
+506,La Brasserie du Soleil,French,cheap,Times Square,13:00,20:00,2.1,false
+507,Chez Gerard,French,expensive,Sutton Place,14:45,22:30,1.3,false
+508,Le Bistrot de la Plaine,French,medium,Herald Square,11:45,22:00,3.6,true
+509,La Table du Pique-Nique,French,cheap,Theater District,16:15,22:45,4.6,false
+510,Le Cafe du Coin,French,medium,Times Square,17:45,23:30,4.3,false
+511,La Petite Pizzeria,French,cheap,Times Square,16:15,22:45,3.6,false
+512,Le Bistro du Port,French,expensive,Little Brazil,12:20,22:45,2.3,false
+513,La Cuisine de la Campagne,French,cheap,Koreatown,16:15,21:45,4.8,true
+514,Le Cafe du Marche,French,expensive,Sutton Place,11:45,21:45,4.1,false
+515,La Brasserie du Village,French,cheap,Tenderloin,16:15,22:30,3.4,false
+516,Chez Francois,French,medium,Hell's Kitchen,14:45,21:30,3.3,false
+517,Le Bistrot de la Mer,French,medium,Garment District,17:45,21:45,2.2,true
+518,La Table du Chef,French,expensive,Hudson Yards,18:00,20:00,4.9,false
+519,Le Cafe de la Tour,French,medium,Herald Square,16:15,23:30,1.2,false
+520,La Petite Creperie,French,medium,Midtown West,16:15,23:15,2.4,false
+521,Le Petit Bistro,French,expensive,Turtle Bay,14:45,23:45,2.3,false
+522,La Belle Epoque,French,expensive,Garment District,13:00,22:45,2.7,true
+523,Chez Pierre,French,cheap,Koreatown,12:20,22:30,4.4,true
+524,Le Coq au Vin,French,medium,Tenderloin,09:30,22:00,2.9,false
+525,La Petite Brasserie,French,expensive,Midtown West,10:15,20:00,3.2,true
+526,Le Chateau de Cuisine,French,medium,Tudor City,11:45,21:45,1.7,true
+527,Cafe de Paris,French,expensive,Hell's Kitchen,10:15,23:30,2.1,true
+528,Le Grenier,French,cheap,Turtle Bay,13:00,23:45,2.5,true
+529,La Maison du Chef,French,expensive,Hell's Kitchen,10:15,23:30,4.3,false
+530,Bistro du Soleil,French,medium,Tudor City,11:45,20:00,4.1,false
+531,Le Jardin Secret,French,expensive,Herald Square,09:30,22:30,2.3,false
+532,Brasserie de Provence,French,expensive,Tenderloin,14:45,23:30,4.7,false
+533,Le Cafe Rouge,French,expensive,Rockefeller Center,10:15,23:45,3.3,true
+534,La Table d'Or,French,medium,Rockefeller Center,13:00,21:45,3.9,false
+535,Le Bistrot Chic,French,medium,Hudson Yards,15:30,22:30,4.2,true
+536,La Cuisine de Marie,French,medium,Sutton Place,16:15,21:45,1.4,true
+537,Le Petit Cafe,French,cheap,Tenderloin,10:15,21:45,4.8,true
+538,La Brasserie Moderne,French,expensive,Sutton Place,17:45,21:45,2.2,false
+539,Chez Marcel,French,medium,Tenderloin,14:45,20:00,2.0,true
+540,Le Cafe du Monde,French,expensive,Diamond District,14:45,22:45,2.4,false
+541,La Petite Auberge,French,cheap,Midtown West,13:00,20:45,4.3,true
+542,Le Bistro Parisien,French,expensive,Midtown West,18:00,22:00,2.4,false
+543,La Cantine Francaise,French,expensive,Midtown,14:45,23:45,4.8,false
+544,Le Grand Gourmet,French,cheap,Herald Square,15:30,22:30,5.0,true
+545,La Cuisine du Chef,French,medium,Times Square,12:20,21:45,1.9,true
+546,Le Cafe des Artistes,French,cheap,Turtle Bay,14:45,20:45,1.7,true
+547,La Brasserie Traditionnelle,French,medium,Turtle Bay,10:15,20:45,3.6,false
+548,Chez Luc,French,cheap,Midtown,11:45,23:30,4.7,true
+549,Le Bistrot de la Mer,French,medium,Madison Square,12:20,20:00,2.7,false
+550,La Table du Chef,French,expensive,Midtown West,09:30,21:45,1.4,false
+551,Le Cafe de la Tour,French,cheap,Garment District,11:45,21:30,1.0,true
+552,La Petite Creperie,French,cheap,Midtown East,13:00,22:45,1.9,false
+553,Le Bistro du Quartier,French,expensive,Midtown West,10:15,23:15,4.0,true
+554,La Cuisine en Rose,French,cheap,Times Square,18:00,20:00,4.7,true
+555,Le Cafe du Coin,French,expensive,Diamond District,11:45,20:45,3.3,false
+556,La Brasserie du Port,French,cheap,Koreatown,17:45,21:45,2.5,false
+557,Chez Antoine,French,medium,Madison Square,16:15,23:30,3.4,false
+558,Le Bistrot de Campagne,French,expensive,Theater District,14:45,22:45,4.6,false
+559,La Table Gourmande,French,cheap,Sutton Place,09:30,20:45,3.9,false
+560,Le Cafe du Palais,French,medium,Columbus Circle,12:20,22:45,2.4,true
+561,La Petite Patisserie,French,cheap,Midtown,16:15,20:45,3.4,true
+562,Le Bistro de la Rue,French,cheap,Hell's Kitchen,11:45,23:45,3.1,false
+563,La Cuisine de Provence,French,cheap,Tudor City,11:45,22:00,3.4,true
+564,Le Cafe du Marche,French,expensive,Murray Hill,18:00,23:30,2.7,false
+565,La Brasserie du Village,French,expensive,Tenderloin,15:30,21:45,1.8,false
+566,Chez Olivier,French,medium,Diamond District,11:45,23:15,4.6,false
+567,Le Bistrot de la Plage,French,cheap,Midtown West,10:15,22:30,1.8,true
+568,La Table du Jardin,French,medium,Midtown East,11:45,22:45,2.3,true
+569,Le Cafe du Temps,French,medium,Turtle Bay,14:45,21:30,3.6,true
+570,La Petite Rotisserie,French,cheap,Madison Square,10:15,22:30,2.5,true
+571,Le Bistro du Chateau,French,cheap,Tudor City,15:30,22:30,2.8,true
+572,La Cuisine de la Mer,French,cheap,Diamond District,15:30,23:15,5.0,true
+573,Le Cafe du Port,French,cheap,Midtown West,17:45,21:30,1.4,false
+574,La Brasserie du Quartier,French,expensive,Sutton Place,17:45,21:45,1.3,false
+575,Chez Paul,French,medium,Hell's Kitchen,15:30,22:00,3.2,false
+576,Le Bistrot du Marche,French,medium,Sutton Place,10:15,21:45,1.2,false
+577,La Table des Amis,French,cheap,Columbus Circle,11:45,20:00,2.4,false
+578,Le Cafe du Soir,French,medium,Sutton Place,13:00,21:30,3.9,false
+579,La Petite Boulangerie,French,cheap,Garment District,10:15,23:45,1.6,false
+580,Le Bistro du Coin,French,expensive,Midtown East,18:00,20:45,3.1,false
+581,La Cuisine du Terroir,French,cheap,Hudson Yards,15:30,23:30,2.8,false
+582,Le Cafe du Soleil,French,medium,Herald Square,14:45,22:30,4.6,false
+583,La Brasserie du Parc,French,cheap,Tenderloin,18:00,22:30,2.7,false
+584,Chez Philippe,French,cheap,Murray Hill,11:45,21:45,4.5,true
+585,Le Bistrot de la Montagne,French,expensive,Tudor City,16:15,20:45,1.5,false
+586,La Table du Gourmet,French,medium,Madison Square,13:00,22:00,3.4,true
+587,Le Cafe du Matin,French,medium,Turtle Bay,14:45,21:45,3.6,false
+588,La Petite Fromagerie,French,medium,Columbus Circle,17:45,20:00,4.2,true
+589,Le Bistro du Village,French,cheap,Herald Square,15:30,23:15,3.9,false
+590,La Cuisine de la Campagne,French,medium,Tudor City,16:15,20:45,4.7,true
+591,Le Cafe du Midi,French,medium,Garment District,09:30,22:00,3.7,false
+592,La Brasserie du Chateau,French,expensive,Midtown,13:00,23:45,4.3,false
+593,Chez Jacques,French,expensive,Rockefeller Center,18:00,21:45,3.8,true
+594,Le Bistrot de la Riviere,French,cheap,Hell's Kitchen,16:15,22:45,4.7,false
+595,La Table du Terroir,French,medium,Columbus Circle,10:15,22:00,5.0,true
+596,Le Cafe du Printemps,French,medium,Tudor City,09:30,23:30,1.9,false
+597,La Petite Charcuterie,French,medium,Tenderloin,11:45,20:45,2.9,false
+598,Le Bistro du Marche,French,cheap,Madison Square,13:00,20:00,1.9,true
+599,La Cuisine de la Montagne,French,medium,Columbus Circle,16:15,22:30,5.0,false
+600,Le Cafe du Soir,French,medium,Hudson Yards,18:00,23:30,2.4,true
+601,Korean Restaurant Team,Korean,medium,Midtown West,09:30,22:45,3.4,true
+602,Korean Restaurant Crew,Korean,expensive,Sutton Place,18:00,23:15,2.7,false
+603,Korean Restaurant Squad,Korean,medium,Tudor City,11:45,22:00,2.5,true
+604,Korean Restaurant Posse,Korean,expensive,Columbus Circle,12:20,22:00,4.8,true
+605,Korean Restaurant Gang,Korean,cheap,Times Square,15:30,22:30,2.0,false
+606,Korean Restaurant Mob,Korean,expensive,Times Square,09:30,20:00,4.3,true
+607,Korean Restaurant Mafia,Korean,cheap,Hudson Yards,18:00,20:00,3.0,false
+608,Korean Restaurant Cartel,Korean,medium,Turtle Bay,18:00,21:45,3.0,true
+609,Seoul Garden,Korean,cheap,Times Square,09:30,23:45,2.6,true
+610,Kimchi House,Korean,cheap,Tudor City,09:30,22:00,1.1,true
+611,Bibimbap Bistro,Korean,expensive,Hudson Yards,15:30,22:30,1.4,true
+612,Gochujang Grill,Korean,expensive,Tudor City,15:30,20:00,3.2,true
+613,Korean BBQ Express,Korean,cheap,Tenderloin,11:45,21:45,1.5,true
+614,Han River Cafe,Korean,cheap,Sutton Place,10:15,22:45,4.9,true
+615,K-Town Kitchen,Korean,expensive,Koreatown,13:00,20:45,2.0,false
+616,Ginseng Garden,Korean,cheap,Midtown West,10:15,23:30,1.1,true
+617,Banchan Buffet,Korean,cheap,Turtle Bay,11:45,20:00,2.0,false
+618,Japchae Junction,Korean,expensive,Turtle Bay,14:45,22:00,2.5,false
+619,Bulgogi Bar,Korean,medium,Turtle Bay,16:15,22:45,4.1,true
+620,Korean Fried Chicken Co.,Korean,expensive,Tudor City,12:20,21:30,1.9,false
+621,Korean Hot Pot House,Korean,medium,Midtown East,11:45,22:30,1.6,false
+622,Tofu Soup Tavern,Korean,cheap,Herald Square,11:45,21:45,4.8,true
+623,Korean Street Food Shack,Korean,expensive,Koreatown,14:45,21:45,2.0,false
+624,Rice Cake Cafe,Korean,cheap,Hudson Yards,09:30,22:45,2.6,true
+625,Spicy Pork Palace,Korean,medium,Theater District,14:45,22:30,1.8,true
+626,Korean Noodle House,Korean,cheap,Garment District,17:45,23:15,1.9,true
+627,Dumpling Den,Korean,expensive,Midtown East,11:45,20:00,1.6,true
+628,Korean Pancake Parlor,Korean,cheap,Diamond District,09:30,21:45,2.0,true
+629,Korean Rice Bowl Restaurant,Korean,cheap,Columbus Circle,15:30,22:45,2.3,true
+630,Korean Seafood Spot,Korean,cheap,Tudor City,10:15,23:45,1.6,true
+631,Korean Snack Stand,Korean,expensive,Turtle Bay,17:45,21:30,2.2,true
+632,Korean Dessert Cafe,Korean,medium,Hell's Kitchen,15:30,23:30,3.7,true
+633,Korean Tea House,Korean,expensive,Koreatown,17:45,23:15,3.7,true
+634,Korean Fusion Food Truck,Korean,expensive,Midtown West,13:00,22:45,3.9,false
+635,Korean Vegan Eatery,Korean,cheap,Koreatown,16:15,23:30,2.2,true
+636,Korean Family Restaurant,Korean,cheap,Tenderloin,16:15,21:45,2.6,true
+637,Korean Fast Casual Spot,Korean,cheap,Madison Square,12:20,20:45,4.0,false
+638,Korean Fine Dining Establishment,Korean,expensive,Times Square,14:45,23:45,3.9,false
+639,Korean Food Court Stall,Korean,cheap,Hell's Kitchen,14:45,23:15,1.0,true
+640,Korean Buffet,Korean,expensive,Tenderloin,11:45,23:30,2.1,false
+641,Korean Takeout Joint,Korean,medium,Garment District,11:45,22:30,3.2,false
+642,Korean Delivery Service,Korean,expensive,Theater District,17:45,23:15,4.1,false
+643,Korean Catering Company,Korean,cheap,Times Square,11:45,21:30,4.1,false
+644,Korean Pop-Up Restaurant,Korean,cheap,Herald Square,12:20,21:45,1.8,true
+645,Korean Food Festival Booth,Korean,medium,Theater District,15:30,22:00,4.6,true
+646,Korean Food Truck Rally,Korean,expensive,Hudson Yards,14:45,23:30,2.0,false
+647,Korean Restaurant Chain,Korean,medium,Little Brazil,16:15,23:15,2.6,false
+648,Korean Restaurant Franchise,Korean,cheap,Sutton Place,09:30,22:45,1.9,false
+649,Korean Restaurant Group,Korean,medium,Tenderloin,17:45,21:30,3.7,false
+650,Korean Restaurant Collective,Korean,medium,Midtown West,11:45,21:30,3.2,false
+651,Korean Restaurant Association,Korean,expensive,Rockefeller Center,17:45,23:45,4.3,false
+652,Korean Restaurant Alliance,Korean,medium,Madison Square,13:00,22:30,2.1,false
+653,Korean Restaurant Coalition,Korean,medium,Theater District,15:30,22:30,2.8,false
+654,Korean Restaurant Union,Korean,cheap,Herald Square,16:15,23:45,3.4,false
+655,Korean Restaurant Syndicate,Korean,medium,Theater District,13:00,23:30,4.5,false
+656,Korean Restaurant Network,Korean,expensive,Koreatown,09:30,21:45,3.8,true
+657,Korean Restaurant Society,Korean,cheap,Columbus Circle,16:15,21:45,1.3,true
+658,Korean Restaurant Guild,Korean,medium,Times Square,17:45,21:45,3.1,false
+659,Korean Restaurant Club,Korean,expensive,Little Brazil,14:45,20:00,4.1,false
+660,Korean Restaurant Circle,Korean,medium,Midtown,15:30,20:45,4.4,false
+661,Korean Restaurant League,Korean,expensive,Tenderloin,16:15,21:45,3.4,false
+662,Korean Restaurant Team,Korean,expensive,Midtown,17:45,22:30,2.5,false
+663,Korean Restaurant Crew,Korean,medium,Murray Hill,15:30,23:15,4.4,false
+664,Korean Restaurant Squad,Korean,expensive,Midtown,18:00,23:15,1.2,false
+665,Korean Restaurant Posse,Korean,medium,Tenderloin,14:45,20:45,2.2,true
+666,Korean Restaurant Gang,Korean,cheap,Theater District,10:15,21:30,3.4,true
+667,Korean Restaurant Mob,Korean,medium,Midtown,09:30,21:30,3.0,false
+668,Korean Restaurant Mafia,Korean,medium,Columbus Circle,15:30,21:45,4.6,true
+669,Korean Restaurant Cartel,Korean,expensive,Tenderloin,09:30,20:00,1.3,true
+670,Korean Restaurant Syndicate,Korean,expensive,Midtown,11:45,21:45,4.0,true
+671,Korean Restaurant Network,Korean,cheap,Murray Hill,14:45,21:45,3.4,false
+672,Korean Restaurant Society,Korean,expensive,Koreatown,13:00,23:30,4.7,false
+673,Korean Restaurant Guild,Korean,medium,Rockefeller Center,12:20,22:00,2.0,false
+674,Korean Restaurant Club,Korean,medium,Hell's Kitchen,09:30,21:30,4.8,true
+675,Korean Restaurant Circle,Korean,expensive,Midtown East,14:45,20:00,1.4,true
+676,Korean Restaurant League,Korean,cheap,Sutton Place,16:15,23:15,2.7,true
+677,Korean Restaurant Team,Korean,expensive,Columbus Circle,13:00,22:00,4.7,true
+678,Korean Restaurant Crew,Korean,medium,Diamond District,11:45,23:30,1.8,true
+679,Korean Restaurant Squad,Korean,medium,Garment District,13:00,22:45,3.4,true
+680,Korean Restaurant Posse,Korean,medium,Madison Square,15:30,23:30,3.3,false
+681,Korean Restaurant Gang,Korean,expensive,Tudor City,15:30,21:30,2.9,true
+682,Korean Restaurant Mob,Korean,expensive,Diamond District,17:45,23:15,4.2,false
+683,Korean Restaurant Mafia,Korean,cheap,Columbus Circle,14:45,23:30,1.0,true
+684,Korean Restaurant Cartel,Korean,expensive,Herald Square,10:15,22:00,2.5,true
+685,Seoul Garden,Korean,medium,Koreatown,18:00,23:45,3.8,true
+686,Kimchi House,Korean,medium,Herald Square,12:20,20:45,2.0,true
+687,Bibimbap Bistro,Korean,cheap,Sutton Place,11:45,23:45,2.3,false
+688,Gochujang Grill,Korean,medium,Koreatown,16:15,20:00,2.0,false
+689,Korean BBQ Express,Korean,cheap,Tenderloin,17:45,21:30,2.8,false
+690,Han River Cafe,Korean,cheap,Turtle Bay,14:45,23:45,3.2,true
+691,K-Town Kitchen,Korean,cheap,Times Square,11:45,22:00,1.0,true
+692,Ginseng Garden,Korean,medium,Columbus Circle,18:00,23:30,4.9,false
+693,Banchan Buffet,Korean,cheap,Rockefeller Center,14:45,20:00,2.5,true
+694,Japchae Junction,Korean,expensive,Tenderloin,13:00,23:45,2.6,false
+695,Bulgogi Bar,Korean,cheap,Midtown West,15:30,20:00,3.3,true
+696,Korean Fried Chicken Co.,Korean,medium,Theater District,13:00,21:30,2.3,true
+697,Korean Hot Pot House,Korean,medium,Herald Square,18:00,21:45,1.2,true
+698,Tofu Soup Tavern,Korean,cheap,Hell's Kitchen,12:20,23:15,3.5,false
+699,Korean Street Food Shack,Korean,medium,Hudson Yards,09:30,22:30,2.4,true
+700,Rice Cake Cafe,Korean,medium,Columbus Circle,18:00,23:45,3.9,true
+701,Thai Orchid,Thai,medium,Hudson Yards,14:45,21:30,1.0,false
+702,Thai Orchid,Thai,expensive,Herald Square,12:20,22:00,2.0,false
+703,Thai Orchid,Thai,cheap,Murray Hill,11:45,23:15,3.1,false
+704,Thai Orchid,Thai,medium,Times Square,15:30,20:45,2.3,false
+705,Thai Orchid,Thai,expensive,Sutton Place,10:15,22:00,3.3,false
+706,Thai Orchid,Thai,expensive,Tenderloin,18:00,21:45,4.9,false
+707,Thai Orchid,Thai,cheap,Tudor City,12:20,23:15,1.5,true
+708,Thai Orchid,Thai,cheap,Sutton Place,10:15,20:45,4.8,false
+709,Thai Orchid,Thai,cheap,Theater District,10:15,22:00,2.2,true
+710,Thai Orchid,Thai,cheap,Midtown East,12:20,20:00,5.0,false
+711,Thai Orchid,Thai,cheap,Koreatown,09:30,20:45,3.0,false
+712,Thai Orchid,Thai,expensive,Theater District,14:45,22:30,1.4,false
+713,Thai Orchid,Thai,cheap,Herald Square,13:00,22:30,4.0,true
+714,Thai Orchid,Thai,cheap,Herald Square,17:45,20:45,3.4,true
+715,Thai Orchid,Thai,cheap,Midtown,10:15,23:30,4.0,true
+716,Thai Orchid,Thai,cheap,Rockefeller Center,12:20,22:00,2.5,true
+717,Thai Orchid,Thai,expensive,Midtown,14:45,22:45,2.7,false
+718,Thai Orchid,Thai,medium,Koreatown,15:30,22:45,1.5,true
+719,Thai Orchid,Thai,cheap,Times Square,14:45,22:45,2.2,false
+720,Thai Orchid,Thai,medium,Columbus Circle,12:20,22:45,4.3,false
+721,Thai Orchid,Thai,medium,Garment District,13:00,20:00,1.2,false
+722,Thai Orchid,Thai,cheap,Hudson Yards,15:30,22:45,3.4,false
+723,Thai Orchid,Thai,expensive,Diamond District,16:15,22:00,4.1,true
+724,Thai Orchid,Thai,expensive,Hell's Kitchen,15:30,22:00,1.4,false
+725,Thai Orchid,Thai,medium,Koreatown,14:45,20:45,4.2,true
+726,Thai Orchid,Thai,medium,Koreatown,11:45,20:45,1.7,true
+727,Thai Orchid,Thai,medium,Little Brazil,18:00,23:15,1.4,false
+728,Thai Orchid,Thai,cheap,Hudson Yards,12:20,20:00,3.7,false
+729,Thai Orchid,Thai,cheap,Garment District,14:45,20:00,2.3,true
+730,Thai Orchid,Thai,medium,Little Brazil,13:00,22:45,2.3,true
+731,Thai Orchid,Thai,medium,Herald Square,12:20,22:45,2.1,false
+732,Thai Orchid,Thai,cheap,Hell's Kitchen,14:45,23:15,2.5,true
+733,Thai Orchid,Thai,cheap,Hell's Kitchen,10:15,22:30,3.7,false
+734,Thai Orchid,Thai,expensive,Madison Square,17:45,20:45,3.1,false
+735,Thai Orchid,Thai,expensive,Rockefeller Center,18:00,22:45,2.0,false
+736,Thai Orchid,Thai,medium,Little Brazil,14:45,21:30,3.7,false
+737,Thai Orchid,Thai,expensive,Midtown East,11:45,22:30,3.2,true
+738,Thai Orchid,Thai,cheap,Murray Hill,14:45,23:15,4.3,true
+739,Thai Orchid,Thai,medium,Tudor City,09:30,20:00,2.2,false
+740,Thai Orchid,Thai,cheap,Sutton Place,17:45,22:45,4.6,false
+741,Thai Orchid,Thai,expensive,Koreatown,12:20,22:45,4.8,true
+742,Thai Orchid,Thai,cheap,Midtown East,18:00,20:00,3.0,true
+743,Thai Orchid,Thai,medium,Midtown,10:15,20:00,3.4,false
+744,Thai Orchid,Thai,cheap,Sutton Place,18:00,21:45,2.2,false
+745,Thai Orchid,Thai,expensive,Theater District,10:15,23:30,3.6,false
+746,Thai Orchid,Thai,expensive,Herald Square,11:45,23:15,3.5,true
+747,Thai Orchid,Thai,medium,Midtown West,15:30,20:00,4.3,true
+748,Thai Orchid,Thai,expensive,Murray Hill,14:45,23:15,1.2,true
+749,Thai Orchid,Thai,cheap,Little Brazil,13:00,21:45,3.7,true
+750,Thai Orchid,Thai,cheap,Tenderloin,10:15,22:45,3.8,true
+751,Thai Orchid,Thai,medium,Theater District,11:45,20:00,3.4,false
+752,Thai Orchid,Thai,medium,Diamond District,13:00,23:45,1.4,false
+753,Thai Orchid,Thai,medium,Madison Square,17:45,23:45,3.3,true
+754,Thai Orchid,Thai,expensive,Midtown West,18:00,22:00,3.4,true
+755,Thai Orchid,Thai,medium,Diamond District,13:00,23:45,3.7,true
+756,Thai Orchid,Thai,medium,Midtown,14:45,23:30,2.3,true
+757,Thai Orchid,Thai,cheap,Turtle Bay,10:15,22:45,4.3,false
+758,Thai Orchid,Thai,medium,Tudor City,14:45,20:45,1.7,true
+759,Thai Orchid,Thai,expensive,Midtown East,11:45,22:30,4.6,false
+760,Thai Orchid,Thai,expensive,Little Brazil,10:15,22:00,3.0,true
+761,Siam Spice,Thai,cheap,Turtle Bay,10:15,21:30,1.7,true
+762,Bangkok Bistro,Thai,cheap,Hudson Yards,18:00,23:45,3.9,true
+763,Thai Orchid,Thai,medium,Diamond District,18:00,22:30,4.1,true
+764,Chang Mai Kitchen,Thai,expensive,Murray Hill,12:20,22:45,1.2,false
+765,Phuket Flavors,Thai,medium,Midtown,12:20,22:45,2.1,true
+766,Thai Terrace,Thai,cheap,Koreatown,17:45,21:30,2.3,true
+767,Golden Buddha,Thai,cheap,Sutton Place,16:15,23:45,3.7,false
+768,Lotus Thai,Thai,expensive,Koreatown,15:30,22:45,1.7,false
+769,Thai Basil,Thai,cheap,Turtle Bay,13:00,21:45,3.1,false
+770,Sawasdee Thai,Thai,expensive,Times Square,18:00,21:30,1.6,true
+771,Thai Elephant,Thai,medium,Tudor City,11:45,20:45,3.1,true
+772,Thai Smile,Thai,cheap,Turtle Bay,15:30,23:30,2.8,false
+773,Royal Thai,Thai,expensive,Times Square,14:45,20:45,2.8,true
+774,Thai Fusion,Thai,medium,Little Brazil,16:15,20:00,4.0,false
+775,Thai Delight,Thai,expensive,Koreatown,14:45,22:00,3.2,false
+776,Thai Paradise,Thai,cheap,Theater District,16:15,20:45,4.6,false
+777,Thai Spice,Thai,cheap,Sutton Place,15:30,23:45,3.0,true
+778,Thai Garden,Thai,expensive,Midtown West,10:15,21:45,2.7,true
+779,Thai Villa,Thai,expensive,Sutton Place,17:45,23:15,3.0,false
+780,Thai Lotus,Thai,cheap,Little Brazil,15:30,23:45,4.3,true
+781,Thai Star,Thai,expensive,Murray Hill,09:30,21:45,4.5,false
+782,Thai House,Thai,expensive,Times Square,12:20,20:45,3.4,false
+783,Thai Pearl,Thai,expensive,Times Square,12:20,23:45,1.6,false
+784,Thai Palace,Thai,expensive,Little Brazil,14:45,21:45,2.4,true
+785,Thai Orchid,Thai,expensive,Murray Hill,13:00,22:30,1.9,true
+786,Thai Pavilion,Thai,expensive,Hudson Yards,10:15,23:15,1.8,true
+787,Thai Lanna,Thai,medium,Sutton Place,18:00,22:00,3.9,true
+788,Thai Siam,Thai,cheap,Midtown West,17:45,22:45,1.4,false
+789,Thai Emerald,Thai,cheap,Hudson Yards,16:15,20:45,1.9,false
+790,Thai Orchid,Thai,expensive,Tudor City,11:45,21:45,3.3,false
+791,Thai Jasmine,Thai,expensive,Midtown,13:00,22:30,1.5,false
+792,Thai Orchid,Thai,expensive,Madison Square,15:30,21:45,3.5,false
+793,Thai Orchid,Thai,expensive,Murray Hill,10:15,20:45,3.7,true
+794,Thai Orchid,Thai,expensive,Turtle Bay,15:30,22:00,1.4,true
+795,Thai Orchid,Thai,cheap,Hell's Kitchen,17:45,21:45,2.9,true
+796,Thai Orchid,Thai,medium,Herald Square,16:15,22:30,4.8,false
+797,Thai Orchid,Thai,cheap,Madison Square,13:00,23:30,1.4,false
+798,Thai Orchid,Thai,expensive,Rockefeller Center,10:15,21:45,3.9,true
+799,Thai Orchid,Thai,medium,Rockefeller Center,13:00,23:15,3.5,false
+800,Thai Orchid,Thai,expensive,Madison Square,18:00,20:00,2.4,false
+801,Mediterranean Oasis,Greek,medium,Midtown,09:30,22:30,3.0,false
+802,Greek Delight Taverna,Greek,cheap,Tudor City,13:00,23:15,2.8,true
+803,Mythos Bistro,Greek,medium,Hudson Yards,12:20,20:45,4.0,false
+804,Olive Grove Bistro,Greek,medium,Midtown West,13:00,23:30,1.3,true
+805,Athena's Taverna,Greek,medium,Hudson Yards,17:45,23:45,4.2,false
+806,Zeus Bistro,Greek,cheap,Times Square,18:00,23:15,3.7,false
+807,Opa! Greek Taverna,Greek,expensive,Madison Square,15:30,23:45,2.4,true
+808,Mediterranean Delight,Greek,cheap,Sutton Place,09:30,23:15,3.5,true
+809,Greek Island Bistro,Greek,medium,Sutton Place,18:00,23:30,4.9,true
+810,Poseidon's Bistro,Greek,cheap,Hudson Yards,11:45,21:45,4.2,true
+811,Olive Tree Bistro,Greek,medium,Midtown,14:45,23:15,4.2,false
+812,Mykonos Delight,Greek,medium,Turtle Bay,09:30,21:45,1.9,false
+813,Athenian Grill,Greek,medium,Midtown,13:00,22:45,2.6,true
+814,Mythos Tavern,Greek,expensive,Theater District,12:20,23:15,1.6,false
+815,Olive Branch Taverna,Greek,cheap,Garment District,12:20,21:30,3.1,true
+816,Greek Isles Bistro,Greek,expensive,Columbus Circle,11:45,23:15,3.3,true
+817,Aphrodite's Taverna,Greek,medium,Theater District,09:30,22:45,3.6,true
+818,Hellenic Bistro,Greek,cheap,Diamond District,17:45,20:45,3.8,false
+819,Ouzo Grill,Greek,expensive,Tenderloin,13:00,23:15,2.8,false
+820,Gyro Taverna,Greek,expensive,Madison Square,17:45,23:15,3.6,true
+821,Mediterranean Kitchen,Greek,cheap,Hell's Kitchen,09:30,22:45,3.1,true
+822,Greek Village Bistro,Greek,medium,Herald Square,09:30,20:00,1.7,false
+823,Mykonos Grill,Greek,expensive,Midtown,12:20,20:00,4.4,false
+824,Athenian Bistro,Greek,medium,Diamond District,15:30,21:30,4.4,false
+825,Olive Garden Taverna,Greek,cheap,Murray Hill,18:00,20:00,1.5,false
+826,Spartan Bistro,Greek,medium,Madison Square,17:45,23:45,2.4,false
+827,My Big Fat Greek Grill,Greek,expensive,Sutton Place,18:00,21:30,4.5,false
+828,Ouzo Tavern,Greek,expensive,Murray Hill,14:45,21:45,4.3,true
+829,Acropolis Taverna,Greek,expensive,Sutton Place,17:45,21:30,3.9,true
+830,Mediterranean Taverna,Greek,expensive,Theater District,17:45,21:45,4.8,true
+831,Greek Delight Bistro,Greek,medium,Koreatown,18:00,22:00,4.2,false
+832,Mythos Grill,Greek,cheap,Midtown,17:45,20:45,4.7,false
+833,Olive Grove Grill,Greek,medium,Madison Square,15:30,21:45,3.2,false
+834,Athena's Bistro,Greek,cheap,Koreatown,16:15,20:45,4.1,true
+835,Zeus Taverna,Greek,expensive,Koreatown,13:00,23:45,2.2,true
+836,Opa! Greek Grill,Greek,medium,Little Brazil,17:45,23:30,1.1,true
+837,Mediterranean Tavern,Greek,expensive,Rockefeller Center,12:20,22:45,3.8,true
+838,Greek Island Taverna,Greek,cheap,Columbus Circle,12:20,23:45,1.2,true
+839,Poseidon's Grill,Greek,medium,Turtle Bay,09:30,22:45,1.4,true
+840,Olive Tree Grill,Greek,cheap,Diamond District,11:45,22:00,3.3,false
+841,Mykonos Bistro,Greek,medium,Murray Hill,09:30,21:30,1.3,true
+842,Athenian Tavern,Greek,expensive,Little Brazil,17:45,23:30,3.2,false
+843,Mythos Taverna,Greek,cheap,Rockefeller Center,16:15,20:45,1.8,false
+844,Olive Branch Grill,Greek,expensive,Rockefeller Center,17:45,21:30,1.4,true
+845,Greek Isles Taverna,Greek,medium,Murray Hill,11:45,22:30,4.9,false
+846,Aphrodite's Grill,Greek,medium,Herald Square,16:15,20:45,3.9,true
+847,Hellenic Taverna,Greek,cheap,Columbus Circle,16:15,20:00,2.9,true
+848,Ouzo Bistro,Greek,medium,Turtle Bay,14:45,23:15,1.1,false
+849,Gyro Grill,Greek,cheap,Midtown West,18:00,22:45,1.1,false
+850,Mediterranean Taverna,Greek,expensive,Murray Hill,10:15,22:45,1.5,true
+851,Greek Village Grill,Greek,cheap,Rockefeller Center,15:30,23:15,2.1,true
+852,Mykonos Taverna,Greek,cheap,Turtle Bay,14:45,20:45,2.3,true
+853,Athenian Grill,Greek,cheap,Times Square,13:00,23:45,3.0,false
+854,Olive Garden Bistro,Greek,cheap,Herald Square,12:20,22:30,4.3,true
+855,Spartan Taverna,Greek,expensive,Little Brazil,13:00,23:30,3.5,false
+856,My Big Fat Greek Grill,Greek,expensive,Midtown,12:20,21:45,1.8,false
+857,Ouzo Tavern,Greek,cheap,Herald Square,17:45,22:30,4.0,true
+858,Acropolis Grill,Greek,cheap,Columbus Circle,11:45,22:30,4.9,false
+859,Mediterranean Bistro,Greek,expensive,Midtown,10:15,22:30,1.4,false
+860,Greek Delight Taverna,Greek,expensive,Tenderloin,09:30,23:45,2.6,true
+861,Mythos Grill,Greek,cheap,Midtown West,10:15,20:00,1.3,true
+862,Olive Grove Bistro,Greek,cheap,Garment District,18:00,23:30,4.9,true
+863,Athena's Taverna,Greek,cheap,Midtown East,10:15,23:30,1.2,true
+864,Zeus Bistro,Greek,cheap,Turtle Bay,10:15,21:30,3.0,true
+865,Opa! Greek Taverna,Greek,cheap,Midtown West,17:45,23:15,3.0,true
+866,Mediterranean Delight,Greek,medium,Midtown West,15:30,20:00,3.3,false
+867,Greek Island Grill,Greek,expensive,Koreatown,17:45,20:00,4.5,true
+868,Poseidon's Bistro,Greek,medium,Herald Square,18:00,23:30,1.6,true
+869,Olive Tree Bistro,Greek,expensive,Midtown West,14:45,21:45,4.8,false
+870,Mykonos Delight,Greek,medium,Tudor City,15:30,22:00,3.1,true
+871,Athenian Grill,Greek,expensive,Tudor City,09:30,20:45,4.7,false
+872,Mythos Tavern,Greek,medium,Times Square,14:45,21:30,1.6,false
+873,Olive Branch Taverna,Greek,cheap,Midtown West,12:20,22:45,1.3,true
+874,Greek Isles Bistro,Greek,cheap,Herald Square,12:20,20:00,4.4,true
+875,Aphrodite's Taverna,Greek,cheap,Diamond District,17:45,23:15,1.5,false
+876,Hellenic Bistro,Greek,cheap,Columbus Circle,16:15,23:15,1.9,false
+877,Ouzo Grill,Greek,cheap,Herald Square,09:30,22:00,3.5,true
+878,Gyro Taverna,Greek,cheap,Turtle Bay,16:15,23:45,3.5,false
+879,Mediterranean Kitchen,Greek,medium,Columbus Circle,15:30,22:30,3.3,false
+880,Greek Village Bistro,Greek,cheap,Midtown East,10:15,22:30,2.2,false
+881,Olive Grove Taverna,Greek,cheap,Hudson Yards,14:45,22:30,4.4,false
+882,Mykonos Grill,Greek,expensive,Garment District,09:30,21:30,3.9,true
+883,Santorini Tavern,Greek,medium,Columbus Circle,13:00,22:45,1.9,true
+884,Athena's Kitchen,Greek,medium,Murray Hill,13:00,21:30,1.9,true
+885,Zeus Taverna,Greek,cheap,Murray Hill,17:45,21:30,2.2,true
+886,Opa! Greek Cuisine,Greek,cheap,Little Brazil,15:30,22:00,3.5,true
+887,Acropolis Taverna,Greek,cheap,Midtown,11:45,23:15,3.3,true
+888,My Big Fat Greek Restaurant,Greek,medium,Times Square,10:15,23:30,4.8,false
+889,Mediterranean Bistro,Greek,expensive,Tudor City,11:45,21:30,4.5,true
+890,Greek Island Grill,Greek,expensive,Sutton Place,15:30,20:00,4.0,true
+891,Poseidon's Palace,Greek,medium,Theater District,18:00,22:30,2.0,true
+892,Olive Tree Taverna,Greek,medium,Sutton Place,18:00,21:30,1.9,false
+893,Mykonos Bistro,Greek,expensive,Little Brazil,11:45,23:30,1.9,false
+894,Athenian Delight,Greek,medium,Tenderloin,15:30,23:15,3.3,true
+895,Mythos Taverna,Greek,cheap,Garment District,18:00,23:30,4.6,false
+896,Olive Branch Bistro,Greek,cheap,Madison Square,18:00,22:00,4.6,true
+897,Greek Isles Grill,Greek,expensive,Midtown East,13:00,23:45,2.0,true
+898,Aphrodite's Kitchen,Greek,medium,Sutton Place,18:00,20:45,1.3,true
+899,Hellenic Taverna,Greek,medium,Midtown,11:45,20:45,3.4,true
+900,Ouzo Taverna,Greek,expensive,Turtle Bay,17:45,20:45,1.2,true
+901,Quinn's Quiche Corner,American,expensive,Hell's Kitchen,13:00,22:30,5.0,false
+902,Ryan's Rib Joint,American,cheap,Koreatown,17:45,20:00,1.5,true
+903,Tina's Tofu Tavern,American,cheap,Hudson Yards,18:00,21:45,4.7,false
+904,Wendy's Waffle House,American,medium,Columbus Circle,09:30,21:45,2.3,false
+905,Zack's Zesty Zucchini Zone,American,cheap,Rockefeller Center,14:45,23:30,1.4,true
+906,Ava's Avocado Acres,American,medium,Hell's Kitchen,14:45,22:00,3.9,true
+907,Ben's Bagel Bakery,American,medium,Midtown West,13:00,21:45,3.5,true
+908,Cindy's Crepe Cafe,American,medium,Theater District,17:45,22:30,4.5,false
+909,Dylan's Doughnut Den,American,expensive,Columbus Circle,10:15,23:15,3.3,true
+910,Ella's Empanada Emporium,American,medium,Murray Hill,17:45,20:45,1.9,true
+911,Finn's Falafel Factory,American,medium,Murray Hill,12:20,22:00,1.1,false
+912,Gina's Gelato Garden,American,cheap,Garment District,09:30,23:15,1.0,true
+913,Henry's Hummus Hut,American,medium,Koreatown,15:30,21:45,1.5,true
+914,Ivy's Indian Inn,American,cheap,Midtown East,12:20,23:45,4.6,true
+915,Jack's Jambalaya Joint,American,cheap,Little Brazil,09:30,20:00,4.1,true
+916,Katie's Kale Kitchen,American,medium,Hell's Kitchen,15:30,22:45,1.8,true
+917,Leo's Lava Lounge,American,cheap,Turtle Bay,11:45,22:00,4.8,false
+918,Mia's Macaroni Mansion,American,medium,Midtown East,14:45,22:00,1.8,false
+919,Noah's Nectar Nook,American,medium,Theater District,18:00,20:00,4.2,true
+920,Olive's Omelette Oasis,American,medium,Herald Square,10:15,20:45,2.9,true
+921,Pete's Pretzel Palace,American,medium,Rockefeller Center,18:00,23:45,4.8,false
+922,Quincy's Quinoa Quarters,American,cheap,Times Square,18:00,22:45,1.5,true
+923,Rose's Rice Retreat,American,expensive,Midtown,15:30,20:00,3.9,true
+924,Sam's Smoothie Spot,American,expensive,Garment District,14:45,22:45,3.7,false
+925,Tara's Tiramisu Tavern,American,expensive,Hudson Yards,11:45,20:45,3.3,true
+926,Ulysses's Udon Utopia,American,expensive,Rockefeller Center,13:00,22:45,4.7,false
+927,Violet's Vegetable Villa,American,cheap,Theater District,10:15,21:45,1.3,false
+928,Will's Wonton Workshop,American,cheap,Midtown East,14:45,22:45,1.3,true
+929,Xander's Xtraordinary Xocolatl,American,expensive,Hudson Yards,10:15,22:30,3.1,true
+930,Yvonne's Yogurt Yard,American,cheap,Midtown West,14:45,23:45,4.9,false
+931,Zane's Ziti Zone,American,expensive,Koreatown,11:45,20:45,3.5,true
+932,Alice's Artichoke Annex,American,expensive,Hell's Kitchen,11:45,23:45,3.7,true
+933,Brett's Burrito Bar,American,cheap,Madison Square,16:15,22:30,3.8,false
+934,Carly's Cupcake Castle,American,cheap,Times Square,18:00,23:15,4.7,true
+935,Drew's Dumpling Depot,American,cheap,Koreatown,15:30,23:30,4.0,true
+936,Eva's Eggplant Emporium,American,expensive,Herald Square,14:45,20:45,1.3,false
+937,Felix's Fajita Fiesta,American,cheap,Midtown,11:45,20:00,1.9,false
+938,Gwen's Granola Grove,American,cheap,Midtown West,11:45,20:00,3.3,false
+939,Hank's Hash House,American,expensive,Hudson Yards,14:45,22:45,2.9,true
+940,Isla's Iceberg Inn,American,expensive,Diamond District,09:30,23:30,3.1,true
+941,Jake's Jicama Joint,American,medium,Times Square,15:30,20:45,3.6,true
+942,Kara's Kiwi Kitchen,American,medium,Midtown East,10:15,23:45,4.9,true
+943,Liam's Linguine Lounge,American,cheap,Midtown,09:30,23:30,1.3,false
+944,Molly's Muffin Manor,American,medium,Garment District,16:15,21:30,1.4,false
+945,Nate's Nacho Nook,American,medium,Hell's Kitchen,15:30,21:45,4.8,true
+946,Ophelia's Olive Orchard,American,medium,Madison Square,14:45,21:30,4.7,false
+947,Pablo's Pita Pit,American,cheap,Hell's Kitchen,15:30,21:45,4.2,false
+948,Quincy's Quiche Quarters,American,medium,Sutton Place,16:15,22:45,3.8,false
+949,Riley's Rice Rendezvous,American,cheap,Sutton Place,16:15,20:45,2.0,true
+950,Sasha's Smoothie Sanctuary,American,medium,Turtle Bay,09:30,22:30,1.1,false
+951,Trevor's Tofu Temple,American,medium,Koreatown,17:45,22:00,1.8,false
+952,Uma's Ube Utopia,American,expensive,Midtown,17:45,22:45,3.5,true
+953,Vince's Veggie Vault,American,expensive,Tenderloin,12:20,21:30,3.7,true
+954,Winnie's Waffle Workshop,American,cheap,Little Brazil,18:00,23:45,4.1,true
+955,Xavier's Xylophone Xanadu,American,cheap,Midtown East,12:20,23:30,4.5,true
+956,Yara's Yucca Yard,American,cheap,Tudor City,14:45,22:00,3.5,false
+957,Zara's Zesty Zoodle Zone,American,cheap,Turtle Bay,11:45,20:45,1.6,true
+958,Joe's Diner,American,cheap,Hell's Kitchen,14:45,23:15,3.7,true
+959,Sally's BBQ,American,cheap,Theater District,09:30,22:00,1.6,true
+960,Tom's Burger Joint,American,expensive,Diamond District,12:20,22:45,4.2,false
+961,Lucy's Pizza Place,American,medium,Turtle Bay,10:15,22:00,2.8,false
+962,Mike's Steakhouse,American,medium,Midtown East,17:45,23:30,4.4,false
+963,Sarah's Seafood Shack,American,expensive,Hudson Yards,12:20,20:00,3.7,false
+964,Bob's Pancake House,American,expensive,Murray Hill,10:15,23:15,3.9,true
+965,Jenny's Taco Truck,American,medium,Koreatown,09:30,23:45,2.6,false
+966,Dave's Deli,American,cheap,Columbus Circle,10:15,20:45,4.5,false
+967,Emily's Sushi Bar,American,medium,Madison Square,09:30,22:00,4.7,false
+968,Chris's Chicken Coop,American,expensive,Turtle Bay,10:15,20:45,3.7,true
+969,Amy's Ice Cream Parlor,American,medium,Madison Square,18:00,21:45,1.8,false
+970,Mark's Mexican Cantina,American,medium,Midtown,09:30,21:30,5.0,true
+971,Laura's Lobster Shack,American,expensive,Theater District,12:20,22:00,2.6,true
+972,Steve's Sandwich Shop,American,medium,Midtown West,11:45,20:45,3.4,false
+973,Rachel's Ramen House,American,expensive,Sutton Place,11:45,22:00,4.5,true
+974,Kevin's Kebab Kitchen,American,cheap,Tudor City,18:00,23:30,2.2,false
+975,Olivia's Oyster Bar,American,cheap,Herald Square,11:45,20:45,4.9,true
+976,Patrick's Pizzeria,American,medium,Tudor City,12:20,20:45,4.9,false
+977,Hannah's Hot Dog Stand,American,cheap,Sutton Place,16:15,22:00,4.1,false
+978,Greg's Greek Grill,American,medium,Tudor City,18:00,22:00,4.1,false
+979,Natalie's Noodle House,American,medium,Rockefeller Center,18:00,22:45,3.4,false
+980,Tyler's Tapas Bar,American,cheap,Midtown,13:00,23:15,3.5,true
+981,Victoria's Vegan Cafe,American,cheap,Midtown,14:45,23:45,2.0,true
+982,Daniel's Diner,American,expensive,Hell's Kitchen,09:30,20:00,3.6,true
+983,Megan's Mediterranean Bistro,American,medium,Garment District,18:00,22:45,4.5,false
+984,Justin's Juice Bar,American,expensive,Tudor City,16:15,22:45,1.7,false
+985,Linda's Lollipop Lounge,American,medium,Hell's Kitchen,13:00,20:45,1.5,true
+986,Oscar's Organic Eatery,American,expensive,Theater District,18:00,21:45,3.2,true
+987,Pam's Pasta Palace,American,expensive,Columbus Circle,14:45,22:30,1.8,true
+988,Quinn's Quiche Corner,American,cheap,Madison Square,09:30,21:45,1.6,false
+989,Ryan's Rib Joint,American,medium,Garment District,13:00,21:45,3.2,true
+990,Tina's Tofu Tavern,American,expensive,Koreatown,11:45,23:45,3.2,false
+991,Wendy's Waffle House,American,cheap,Hudson Yards,10:15,20:00,1.3,false
+992,Zack's Zesty Zucchini Zone,American,expensive,Times Square,12:20,22:30,4.0,true
+993,Ava's Avocado Acres,American,medium,Hell's Kitchen,13:00,21:45,1.8,false
+994,Ben's Bagel Bakery,American,medium,Times Square,13:00,22:30,1.6,true
+995,Cindy's Crepe Cafe,American,medium,Columbus Circle,15:30,20:00,3.5,true
+996,Dylan's Doughnut Den,American,expensive,Garment District,18:00,23:45,3.0,false
+997,Ella's Empanada Emporium,American,cheap,Tudor City,14:45,21:45,1.0,true
+998,Finn's Falafel Factory,American,medium,Midtown East,14:45,21:45,3.9,true
+999,Gina's Gelato Garden,American,medium,Midtown West,16:15,23:45,4.6,false
+1000,Henry's Hummus Hut,American,medium,Columbus Circle,14:45,21:30,1.1,false
