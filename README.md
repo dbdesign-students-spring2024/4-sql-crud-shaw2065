@@ -100,11 +100,11 @@ CREATE TABLE posts (
 ```sql
 insert into users (email,password,handle) values ("random@gmail.com","pw123456","randompeople");
 ```
-2. Create a new Message sent by a particular User to a particular User (pick any two Users for example).
+2. Create a new Message sent by a particular User to a particular User (using  `user 177` as the sender and `user 897` as the recipient).
 ```sql
 insert into posts (user,type,content,recipient,visibility, created) values (177,"message","hello friend",897,"true",datetime('now'));
 ```
-3. Create a new Story by a particular User (pick any User for example).
+3. Create a new Story by a particular User (using  `user 64` as the sender).
 ```sql
 insert into posts (user,type,content,recipient,visibility, created) values (64,"story","today i had a croissant",390,"true",datetime('now'));
 ```
